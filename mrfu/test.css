@@ -1,0 +1,26 @@
+.dakuangjia{
+	position:relative;
+	height:1200px;
+	width:auto;
+}
+.dakuangjia .xiaobiaoti{
+	position: relative;
+	height:1200px;
+	text-align: center;
+	width:100px;
+	font-size: 30px;
+	line-height: 100px
+	color:#000;
+}
+.dakuangjia .zhongxin dl{
+	position: relative;
+    height:400px;
+	width:360px;
+	background-color: #99999;
+	float: left;
+	margin: 10px;
+	padding:10px;
+}
+.dakuangjia .zhongxin dl dt{
+
+}
